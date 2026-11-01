@@ -24,6 +24,12 @@ one repeatable run.
 - **[QuantJourney Blog](https://quantjourney.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=quantjourney_bt)** — 300+ articles on quantitative finance, systematic strategies, and backtesting. **Subscribe for new research and code.**
 - **[Quant Videos](https://www.youtube.com/@QuantJourneywithCode?utm_source=github&utm_medium=readme&utm_campaign=quantjourney_bt)** — Trading strategies, Python implementations, and code walkthroughs on YouTube.
 
+## Websites:
+1. [backtester.quantjourney.cloud](https://backtester.quantjourney.cloud/).
+2. [quants.md](https://quants.md/)
+3. [options-101.com](https://options-101.com/)
+
+
 ## Installation
 
 ```bash
